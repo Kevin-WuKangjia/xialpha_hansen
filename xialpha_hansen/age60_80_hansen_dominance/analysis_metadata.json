@@ -1,0 +1,7 @@
+{
+  "analysis_scope": "age_bin",
+  "age_bin": "age60_80",
+  "subject_count": 253,
+  "raw_maps_root": "E:\\b2f10k\\averagemaps\\age60_80",
+  "dataset_key": "age60_80"
+}

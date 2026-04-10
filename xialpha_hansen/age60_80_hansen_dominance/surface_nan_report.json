@@ -1,0 +1,30 @@
+{
+  "Xi_estimate_Power": {
+    "L": 888,
+    "R": 881
+  },
+  "Xi_estimate_Width": {
+    "L": 888,
+    "R": 881
+  },
+  "Xi_estimate_Exponent": {
+    "L": 888,
+    "R": 881
+  },
+  "Alpha_estimate_Power": {
+    "L": 888,
+    "R": 881
+  },
+  "Alpha_estimate_Width": {
+    "L": 888,
+    "R": 881
+  },
+  "Alpha_estimate_Exponent": {
+    "L": 888,
+    "R": 881
+  },
+  "Alpha_estimate_PAF": {
+    "L": 888,
+    "R": 881
+  }
+}
